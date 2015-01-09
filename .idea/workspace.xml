@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c041d9c5-2440-476d-85da-7f51f6013b09" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blog.com.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/ManagerRegistry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/AbstractClassMetadataFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/ClassMetadata.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/ClassMetadataFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/doctrine/common/lib/Doctrine/Common/Persistence/Mapping/Driver/AnnotationDriver.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\AppCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\AppKernel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\Resources\views\base.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\Resources\views\default\index.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\SymfonyRequirements.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\bootstrap.php.cache" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\591accb85023e2f38910c8465d89d25a6dd1509b#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\591accb85023e2f38910c8465d89d25a6dd1509b.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\597877fc1359850fa8786ead82dcc8f6f491d628#showAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\597877fc1359850fa8786ead82dcc8f6f491d628.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#addFlash.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createAccessDeniedException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createForm.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createFormBuilder.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#createNotFoundException.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#denyAccessUnlessGranted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#forward.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#generateUrl.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#get.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getDoctrine.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getRequest.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#getUser.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#has.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#isCsrfTokenValid.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#isGranted.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#redirect.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#redirectToRoute.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#render.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#renderView.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\657d22547c85f350850e6e809be52d5c2c0d77f6#stream.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\69b748bbdb21c9dbce0109b52d28fc1d6404463b#setContainer.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\aa3b17a06c54069051111edd177f4b93a6b0ac40#toolbarAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\aa3b17a06c54069051111edd177f4b93a6b0ac40.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\b028796042cbdc873a69e5a414f38a500246948a#indexAction.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\annotations\b028796042cbdc873a69e5a414f38a500246948a.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevDebugProjectContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevDebugProjectContainer.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevDebugProjectContainer.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevDebugProjectContainerCompiler.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevUrlGenerator.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevUrlGenerator.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevUrlMatcher.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\appDevUrlMatcher.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\assetic\config\4\43a80f0e087752a2d4724591f85aa0e1.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\assetic\config\a\ae1b290dcfca1cdecd87a85bbe4b1164.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\assetic\routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\classes.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\classes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\classes.php.meta" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\27\1d\e41d27" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\64\81\c08164" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\65\97\739765" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\73\29\df2973" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\82\19\e61982" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\cc\ef\49efcc" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\d1\1e\b01ed1" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\e7\30\0f30e7" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\profiler\index.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\11\a8\6a15bbc880b72350a4caafe177dc2970cb155df4b12d650928d496fce2b7.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\11\e1\5b382730c2b2a3ebbad8eaa042454c588a59b940cad0b603502a9fce2707.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\1f\57\7ef7893ddee14c3e7e6684c250bc3a1e31fe267e7e4f603bb95359ec84c5.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\2a\d5\73375684a455ec724cf191b281acbd5d46546a16e6352e267149d714b755.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\2d\90\275082365d26536c3485f09b6177f83abeec1099202e6f6737a34f6462cf.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\35\57\5ebdfa1d54b6684067d0a57a2094062b6647cdaf80da97fb128d2309b268.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\36\7f\4aacd68e6932294006b06ba1f68755b5ce47a41e1dd04cce3a8af3c510d5.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\47\f2\407bae3558818bbb2d27bfec1738eee2c22d5e3ef8688f7c9911fe56a57c.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\48\b0\0369c11c30c529efb6702ec902b567f195ee44e7ddc82efb6a018a52446a.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\4c\08\a38e57d9f3e1e248cb6804d6f0babc786f08ad9a111875d470c7767bc573.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\4d\20\115d17533ba3a3f910766dba3a9a249b96174e705baf8599fba3e702a4f7.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\58\e1\21f0c2648fcfd3bd99d7af3d986b5e2dddd698b4a88f41ece9fa75639529.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\62\11\61b941683b4714777a7e7a2a6980775c9b8357374a482d7d98c4c6718790.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\70\a4\f7380c675b4bbb99a8ecfbbe213615848dc5c761694e35355ce7555b4a56.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\75\08\232cd83cb7eca674d78d8ecb149bcfcb5f7c566ca0e0bebd9d61a1606917.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\7c\a8\7b011a5adb565d0da924e2498a23a8d1baea3c229a52cabbe577f54fbe53.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\7d\54\e62bb2a5904bb398a46830cb039438fcd3fab4579b75ee6fd57627377504.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\8d\3b\2e5d2e78b718c7934000b2d4c43c85e321039eae0ef2ae9f0f01c4c4d1b6.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\95\c7\467a1f6292a64e46278b1d8529e8b7fedd9d489a82c0565c42cd42b1f5b5.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\95\d1\edeb8c24e0f91c58534280cba5f1f4091fc50e0847b170157b33459946a6.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\b3\8d\d57ed5b12516df90f767e49e7d8fc2f5861011328bf9380c1bd2affdbab7.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\cd\43\b96288584204af9503fb83c75ef8ce10339184b9f3a11355b76151160f80.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\ce\94\71f50f24b75e353039f775318587c0140d6d7f2f7ef4aec710daaffcf520.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\cf\84\9c5dba4fe9d1bbcbd6c8d65d117fc1371348a4a70c198a7ec36942249828.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\da\11\122602aec7e5ad597bc8f7336176bd783803b95939a8769e72b88b58638e.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\dc\21\5e1b4bb9927aae550feb3d3d7e1ab0aaae5dc11e33b090803affb225f11b.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\df\97\8b2f2ae031a610af99fbcbef46e36d6588fc94f81c89c2fc9e01c2800ed3.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\df\cf\a6d41418468ffa2e7f21e1ab1530b18c38dedd69b3be0ac7687ab879fd04.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\e1\bd\9f740a8c6208c0c973e74af07b55397c6bf061c745c315ed07537d5cbbb3.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\e5\73\a743b3f0814910379c22e0fb550909d7e87b11f228f4d8fee6e80d86b0cb.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\ec\97\e816355f76c157285641b10101b6ff80b5c934700c6184d388eb0bb0204c.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\ee\d6\971d13261412e9e009063a7fd9bb6295e44f2fe9e2c76e961694834a62df.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\f7\8c\ec7a584279ff61f80c23c4999df88ab518e67ea01514898b608c10ac8a4e.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\cache\dev\twig\fb\70\b05260ced9e977d633e7b58ee272bc7fb00bbd819744a324c7290bbb2988.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\check.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\config.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\config_dev.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\config_prod.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\config_test.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\parameters.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\parameters.yml.dist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\routing_dev.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\security.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\config\services.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\console" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\logs\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\logs\dev.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\app\phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\doctrine" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\doctrine-dbal" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\doctrine-dbal.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\doctrine.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\doctrine.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\doctrine.php.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\security-checker" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\bin\security-checker.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\AppBundle\AppBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\AppBundle\Controller\DefaultController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\AppBundle\Tests\Controller\DefaultControllerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\Blogger\BlogBundle\BloggerBlogBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\Blogger\BlogBundle\DependencyInjection\BloggerBlogExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\Blogger\BlogBundle\DependencyInjection\Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\Blogger\BlogBundle\Resources\config\routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\Blogger\BlogBundle\Resources\config\services.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\src\Blogger\BlogBundle\Tests\Controller\DefaultControllerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\autoload_classmap.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\autoload_files.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\autoload_namespaces.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\autoload_psr4.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\autoload_real.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\composer\installed.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\AnnotationException.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\AnnotationReader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\AnnotationRegistry.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation\Attribute.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation\Attributes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation\Enum.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation\IgnoreAnnotation.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation\Required.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Annotation\Target.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\CachedReader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\DocLexer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\DocParser.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\FileCacheReader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\IndexedReader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\PhpParser.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\Reader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\SimpleAnnotationReader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\annotations\lib\Doctrine\Common\Annotations\TokenParser.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\build.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\ApcCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\ArrayCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\Cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\CacheProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\CouchbaseCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\FileCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\FilesystemCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\MemcacheCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\MemcachedCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\MongoDBCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\PhpFileCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\RedisCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\RiakCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\Version.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\WinCacheCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\XcacheCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\lib\Doctrine\Common\Cache\ZendDataCache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\ApcCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\ArrayCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\BaseFileCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\CacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\CouchbaseCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\FileCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\FilesystemCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\MemcacheCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\MemcachedCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\MongoDBCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\PhpFileCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\RedisCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\RiakCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\WinCacheCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\XcacheCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\Common\Cache\ZendDataCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\DoctrineTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\Doctrine\Tests\TestInit.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\travis\php.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\cache\tests\travis\phpunit.travis.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\AbstractLazyCollection.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\ArrayCollection.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Collection.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Criteria.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Expr\ClosureExpressionVisitor.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Expr\Comparison.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Expr\CompositeExpression.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Expr\Expression.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Expr\ExpressionVisitor.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Expr\Value.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\ExpressionBuilder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\lib\Doctrine\Common\Collections\Selectable.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\Common\Collections\AbstractLazyCollectionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\Common\Collections\ClosureExpressionVisitorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\Common\Collections\CollectionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\Common\Collections\CriteriaTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\Common\Collections\ExpressionBuilderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\DoctrineTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\LazyArrayCollection.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\collections\tests\Doctrine\Tests\TestInit.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\build.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\build.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\CommonException.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Comparable.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\EventArgs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\EventManager.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\EventSubscriber.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Lexer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\NotifyPropertyChanged.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\AbstractManagerRegistry.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\ConnectionRegistry.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\Event\LifecycleEventArgs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\Event\LoadClassMetadataEventArgs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\Event\ManagerEventArgs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\Event\OnClearEventArgs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Server\data\localweb\blog.com\vendor\doctrine\common\lib\Doctrine\Common\Persistence\Event\PreUpdateEventArgs.php" afterPath="" />
+    </list>
+    <ignored path="blog.com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blog.com" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog.loc" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c041d9c5-2440-476d-85da-7f51f6013b09" name="Default" comment="" />
+      <created>1420468109993</created>
+      <updated>1420468109993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1036" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Blogger/BlogBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="879">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
